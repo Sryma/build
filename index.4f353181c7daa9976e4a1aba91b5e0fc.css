@@ -1,0 +1,175 @@
+body,html{
+	margin:0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+	 box-sizing: border-box;
+}
+/*navigation*/
+.navbar{
+	background: rgba(0,0,0,0.5)!important;
+	border: 2px solid grey;
+	padding-left: 200px;
+}
+
+/*.navbar img{
+	padding-right: 100px;
+}*/
+.scroll{background:url(assets/media/img/sec3back.jpg) bottom center fixed no-repeat;
+	background-size:cover;
+	min-height:100%;
+	overflow:hidden}
+ /*.copy
+ 	{height:auto!important;
+ 	padding-bottom:1rem!important}*/
+ /*.image-set{
+ 	 	height:325px!important;
+ 	 	display: inline;
+ 	 }*/
+ img.light{
+ 	margin: 0 40px 0 15px!important;
+ 	border:1px solid yellow;
+ }
+ img.plug{
+ 	margin-left:45px!important;
+ }
+/*.image-set:nth-child(1){
+ 	 		margin-right: 10px;
+ 	 	}*/
+ .boost h2{
+ 	font-size: 25px!important;
+ 	font-weight: 700px;
+ 	padding-top:1rem!important;}
+ .take-control{height:auto;}
+ /* footer{margin-bottom:55px}.legal{text-align:center!important;margin-top:10px!important}}@media only screen and (max-width:600px){.take-control{height:1050px!important}.hero__msg{top:25%!important}.enjoy .content-block{padding-top:65%!important}}@media (min-width:1515px) and (max-width:1760px){.content,.image-set{height:300px!important}.copy h2{padding-top:2.5rem!important}}@media (min-width:993px) and (max-width:1515px){.copy{height:600px!important}.copy h2{padding-top:60%!important}.copy p{padding-top:15%!important}.image-set{height:300px!important}.content{padding-top:10%!important;margin-left:15%!important}.take-control{height:770px!important}}@media (min-width:1516px) and (max-width:1547px){.image-set{height:250px!important}}@media (min-width:1760px) and (max-width:1792px){.image-set{height:335px!important}}.mobile-btn{position:fixed;bottom:0;left:0;width:100%;height:55px;z-index:9999;font-size:2rem;padding-top:10px}.material-tooltip{margin-top:-2%}#endbtn:hover,#navbutton:hover{background:#ffa726!important}.contact:hover{background:#64b5f6!important}#player{margin:0 auto}.modal .open{margin-top:15%}#contact-form{height:100%;width:0;position:fixed;z-index:99999999;left:0;top:0;background-color:rgba(255,255,255,.8);overflow-x:hidden;transition:.5s}#contact-form .email{position:relative;top:25%;width:100%;text-align:center;margin-top:30px}#contact-form .closebtn{position:absolute;top:10px;right:45px;font-size:60px}.img__ctabutton:hover{-webkit-transform:scale(1.2);-ms-transform:scale(1.2);transform:scale(1.2)}@keyframes fadein{0%{opacity:0}100%{opacity:1}}.faded{animation:fadein 2s}.logo{padding-top:10px;height:60px}nav{text-shadow:1px 1px #000}.nav-wrapper{text-transform:uppercase}.navbar-fixed{height:0;z-index:9999}.navbar-black{background-color:rgba(0,0,0,.6)}.z-depth-0{background-color:transparent;box-shadow:0 0 0 0 transparent}body,h1,h2,h3,h4,h5,html,img,nav,ol,p,section,ul{margin:0;padding:0}html{min-width:100%}div,section{max-width:100%}.demo,.enjoy,.features,.take-control,.workswith,footer{position:relative;background:#fff}.hero__msg{top:40%;left:0;z-index:8;position:absolute;color:#fff;text-align:center;text-shadow:2px 2px #222;width:100%}html{font-family:Lato,sans-serif;width:100%}section{overflow:hidden}.img__ctabutton{height:50px}video{object-fit:cover;position:relative;width:auto;height:auto;min-width:100%;min-height:100%;overflow:hidden;z-index:-9999;top:0}.video-play{min-height:100%;max-width:100%;height:100vh;width:100vw;left:0;top:0}.masthead{position:relative;height:100vh;width:100%}.video-bg{z-index:-1000;max-width:100%;min-height:100vh;background-repeat:no-repeat;background-attachment:scroll;position:fixed}.hero-msg,.video-bg{position:absolute}.mobile-img-bg{background:url(assets/media/img/yzlight.png) top center;background-size:cover;z-index:-1000;height:100%;width:auto}.hero__msg{top:40%;left:0;z-index:8;position:absolute;color:#fff;text-align:center;text-shadow:2px 2px #222;width:100%}.hero__msg img{margin-top:2%}.full-video{top:80%;left:1%;z-index:5;position:relative;text-shadow:1px 1px #222;font-size:1.5rem}.full-video a,.full-video a:active,.full-video a:link,.full-video a:visited{text-decoration:none;color:#fff;z-index:99999999}
+  */.take-control{min-height:755px;
+ 	position:relative;height:auto;width:auto}
+ 	
+ .boost{
+	background:#fff;
+	height:250px!important;
+	border:1px solid green;
+	padding: 0 20px 10px 20px!important;
+	 box-shadow: 10px 10px 5px;
+
+/*margin-right: 10px;*/
+ 		}
+ 		
+ 		.image-set img{
+ 			/*border: 2px solid red;*/
+ 			width: 100%;
+
+ 		 			
+ 		}
+ 		
+ 	.folder{
+ 		padding-top: 10%;
+ 		border: 1px solid red;
+ 	}
+ 	.indiegogo img{
+ 		width:80%;
+ 		height:auto;
+ 		margin-left:110px;
+ 	}
+ 	
+ 	/*email subscription*/
+ 	#mc_embed_signup
+ 		{background:#fff; 
+ 		clear:left; 
+ 		font:20px;
+ 		color:black;
+ 		 width:100%;
+ 		padding:10px 0 5px 200px;
+ 		margin-top:40px!important;
+ 	}
+ 	
+ 	.button{
+ 			/*display: inline;*/
+ 			border-radius: 5px;
+ 			padding: 10px;
+ 			background: #888888!important;
+ 		}
+ 	#mc_embed_signup li{
+ 		display: inline;
+ 		list-style: none;
+ 		text-align:center;
+ 	}
+ .bon{
+ 	border:1px solid blue!important;
+ }
+ /*footer*/
+ .footer img{
+ 	margin-top: 10px;
+ 	width:100px;
+ 	height:40px;
+ 	border: 1px solid orange;
+ }
+ /*media query*/
+ @media only screen and (max-width: 480px){
+	body,html{
+		font-size:18px;
+		margin: 0 auto;
+		}
+		
+		.boost{
+			
+			width: 100%;
+			height: 250px;
+			margin: 50px 10px 40px 10px;
+			padding: 40px;
+		}
+	.boost h2{
+		font-size: 26px!important;
+	}
+	.boost p{
+		font-size: 18px!important;
+	}
+	.image-set img{
+		width: 100%;
+		height: 300px;
+		margin: 0 auto!important;
+	}
+#mc_embed_signup{
+	margin-top: 50px;
+	padding:2px!important;
+
+}
+.indiegogo img{
+	width: 80%;
+	height: 200px;
+	margin-left: 100px;
+}
+}
+@media only screen and (min-width: 481px) and (max-width: 640px){
+	body,html{
+		font-size:18px;
+		margin: 0 auto;
+		}
+		
+		.boost{
+			
+			width: 100%;
+			height: 250px;
+			margin: 50px 10px 40px 10px;
+			padding: 40px;
+		}
+	.boost h2{
+		font-size: 26px!important;
+	}
+	.boost p{
+		font-size: 18px!important;
+	}
+	.image-set img{
+		width: 100%;
+		height: 300px;
+		margin: 0 auto!important;
+	}
+#mc_embed_signup{
+	margin-top: 40px;
+padding:2px 10px 2px 100px!important;
+}
+.indiegogo img{
+	width: 80%;
+	height: 250px;
+	margin-left: 100px;
+}
+}
